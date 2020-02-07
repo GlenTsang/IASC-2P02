@@ -4,4 +4,9 @@
 
 The quick brown fox jumps over the lazy dog.
 
-![](images/wayne)
+![](images/wayne.jpg)
+
+## Blog Post
+
+cheese
+
