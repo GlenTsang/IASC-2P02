@@ -9,4 +9,4 @@ The quick brown fox jumps over the lazy dog.
 
 cheeseing for a decade now its 2020
 
-Heres my [blog_post](blog.md)
+Heres my [blog post](blog.md)
