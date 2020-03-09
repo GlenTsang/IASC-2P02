@@ -39,3 +39,5 @@ Drucker, J. (2011). Humanities Approaches to Graphical Display. Retrieved from h
 Moretti, F. (2003). GRAPHS, MAPS, TREES. Retrieved from http://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf
 
 Angelis, Viviana, et al. (2018). Digital Humanities Quarterly: Visual Communication and the Promotion of Health: an Exploration of How They Intersect in Italian Education. Retrieved from www.digitalhumanities.org/dhq/vol/12/4/000407/000407.html
+
+Back to [Home](README.md)
