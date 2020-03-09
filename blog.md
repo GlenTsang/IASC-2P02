@@ -40,4 +40,4 @@ Moretti, F. (2003). GRAPHS, MAPS, TREES. Retrieved from http://www.mat.ucsb.edu/
 
 Angelis, Viviana, et al. (2018). Digital Humanities Quarterly: Visual Communication and the Promotion of Health: an Exploration of How They Intersect in Italian Education. Retrieved from www.digitalhumanities.org/dhq/vol/12/4/000407/000407.html
 
-Back to [home](README.md)
+Back to [home.](README.md)
