@@ -8,4 +8,4 @@ My name is Glenson Tsang, I am from Milton Ontario. I am a second year Interacti
 
 ## Blog Post
 
-Heres my [blog post](blog.md)
+In their work, both Moretti and Drucker argue that visual forms should be combined with written text [Keep Reading](blog.md)
